@@ -12,7 +12,6 @@ We explore two core approaches using the **VizWiz** dataset:
 
 The ultimate goal is to enhance **accessibility** and **independence** through robust and efficient AI-driven image understanding.
 
----
 
 ## 📦 Dataset: VizWiz
 
@@ -45,7 +44,7 @@ Inspired by the "Less Is More" paper, this approach focuses on **efficiency**:
 - **Challenges**:  
   ⚠️ Limited to 6503 predefined answers; cannot handle open-ended responses.
 
----
+
 
 ### 2. Generation-Based VQA (CLIP-ViT-GPT2, SigLIP-GPT2, ViT-GPT2)
 
@@ -78,7 +77,7 @@ This approach explores **generative** VQA for greater flexibility:
 - Classification is more efficient and reliable for VizWiz.
 - Generation offers flexibility but requires more resources and fine-tuning.
 
----
+
 
 ## 🚀 Future Work
 
